@@ -1,0 +1,5 @@
+body{background-color: aqua;}
+ul, li{
+    list-style-type: none;
+    text-decoration: none;
+}
